@@ -1,8 +1,8 @@
 # Tableau Extension UI Boilerplate for VueJS
 
-## Build by Andre de Vries (03/08/2018)
+### Build by Andre de Vries (03/08/2018)
 
-> A Vue.js project
+> A UI Starter kit for Tableau Extensions in VueJS. Based on the [Material Design Componenents](https://stasson.github.io/vue-mdc-adapter/#/) and [Craig Bloodworths UI Starter](https://github.com/TheInformationLab/Tableau-Extension-UIStarter)
 
 ## Build Setup
 
